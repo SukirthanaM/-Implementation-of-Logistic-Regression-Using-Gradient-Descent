@@ -110,7 +110,7 @@ print(y_prednew)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+
 ![image](https://github.com/user-attachments/assets/df613e33-2303-4cd1-a545-fdb15e67c6be)
 ![image](https://github.com/user-attachments/assets/85c1182f-c710-4d1a-89fa-4e656e54c490)
 ![image](https://github.com/user-attachments/assets/21a38af0-d4ca-4e6f-aeff-84e1228cdea6)
