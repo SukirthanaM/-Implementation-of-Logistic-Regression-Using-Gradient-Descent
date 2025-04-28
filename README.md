@@ -40,6 +40,7 @@ RegisterNumber: 212224220112
 import numpy as np
 
 dataset = pd.read_csv('Placement_Data.csv')
+print("Name: Sukirthana.M\nReg.no: 212224220112)
 dataset
 
 dataset = dataset.drop('sl_no',axis=1)
@@ -111,7 +112,7 @@ print(y_prednew)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/df613e33-2303-4cd1-a545-fdb15e67c6be)
+![image](https://github.com/user-attachments/assets/a00d45b6-e31a-4735-89a6-3b6efb84ec06)
 ![image](https://github.com/user-attachments/assets/85c1182f-c710-4d1a-89fa-4e656e54c490)
 ![image](https://github.com/user-attachments/assets/21a38af0-d4ca-4e6f-aeff-84e1228cdea6)
 ![image](https://github.com/user-attachments/assets/2fbac6e4-833f-48cf-b34d-02cb03334c27)
